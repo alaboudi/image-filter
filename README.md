@@ -1,6 +1,6 @@
-#Image-Filter
+# Image-Filter
 
-##Usage
+## Usage
 1. Add the js file into your html page
 2. Add 'image-filter' class to img element, specify color and opacity as data attributes. 
 3. Enjoy your picture
